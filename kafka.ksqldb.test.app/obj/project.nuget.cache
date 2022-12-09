@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6qm6/yiEIJija9w/2qgFqgw8Bkq1FYaG2TC8XYTbEJuTU53Ls+J/CPVsna1FQiXrG2rPz7JPos0lvDQeEE82A==",
+  "dgSpecHash": "B2D48gaw37s0m4+eeNA5VYp4+mqDKR/hKO4Kg/IdEKn2QocZ12l0JdlZH1f99WV8p3jhV62jO+4rRjeGj5YksQ==",
   "success": true,
-  "projectFilePath": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.ksqldb.test.app/kafka.ksqldb.test.app.csproj",
+  "projectFilePath": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.ksqldb.test.app/kafka.ksqldb.test.app.csproj",
   "expectedPackageFiles": [
     "/Users/bayb/.nuget/packages/ksqldb.restapi.client/2.0.1/ksqldb.restapi.client.2.0.1.nupkg.sha512",
     "/Users/bayb/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",

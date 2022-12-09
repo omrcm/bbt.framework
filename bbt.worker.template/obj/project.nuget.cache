@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qkkQxcOMtWXK6ZN53pCcV90H26Ct6KkOkFfcu9rOPcOR9D+HGq+EBUwQpGUZx0CECU1zeo2TZ7mQuZX0rN16tw==",
+  "dgSpecHash": "IrnbELyj2aBfIgvT2LguIzvVegQj4CubhedHxgETowpcB9WCfjIiieiCc95XTv25IlM+C/3dEzGmS+ULsE8R8Q==",
   "success": true,
-  "projectFilePath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
+  "projectFilePath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
   "expectedPackageFiles": [
     "/Users/bayb/.nuget/packages/consul/1.6.10.6/consul.1.6.10.6.nupkg.sha512",
     "/Users/bayb/.nuget/packages/elastic.apm/1.16.0/elastic.apm.1.16.0.nupkg.sha512",

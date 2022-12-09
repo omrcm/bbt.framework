@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5x7EndvAh1RlhXfkWWRgpkqud/WzMNXx6sz1Ky/urFZFKbu3Rv7XHze6J+6joYrgSJdSRrcAasX/xe0FjmVFw==",
+  "dgSpecHash": "bOTqJmqbCULvGot1rqpSMtjszx4bcmpzLEclneXIsClak+xSHBjclbw5QuOnnG/euZ5vSd2ZvlJz1c6CnIaf0g==",
   "success": true,
-  "projectFilePath": "/Users/bayb/Desktop/burgan/code/bbt.framework/api.test.app/api.test.app.csproj",
+  "projectFilePath": "/Users/bayb/Desktop/work/code/bbt.framework/api.test.app/api.test.app.csproj",
   "expectedPackageFiles": [
     "/Users/bayb/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "/Users/bayb/.nuget/packages/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

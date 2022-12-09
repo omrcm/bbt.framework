@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z/3PFDmYO9qfMG5MDldTzCCdmcHH7LACW8jQZckwATRNXM/UuNsUDjn59uBZtzx8F/KQeOP3JZtNH/KMxE9VDA==",
+  "dgSpecHash": "o2fIC+cdncsRaMKpt/mR6MUjnW+gjgVkkopMvF4lg4eHUOrLdHedZXspv6yrGrOoymkPbyH85BNK7KshNgJ6ng==",
   "success": true,
-  "projectFilePath": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj",
+  "projectFilePath": "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj",
   "expectedPackageFiles": [
     "/Users/bayb/.nuget/packages/confluent.kafka/1.8.2/confluent.kafka.1.8.2.nupkg.sha512",
     "/Users/bayb/.nuget/packages/librdkafka.redist/1.8.2/librdkafka.redist.1.8.2.nupkg.sha512",

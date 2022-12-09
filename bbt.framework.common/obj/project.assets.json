@@ -6545,13 +6545,13 @@
     "/Users/bayb/.nuget/packages/": {}
   },
   "project": {
-    "version": "6.2022.1210.204",
+    "version": "6.2022.1210.240",
     "restore": {
-      "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj",
+      "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj",
       "projectName": "bbt.framework.common",
-      "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj",
+      "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj",
       "packagesPath": "/Users/bayb/.nuget/packages/",
-      "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/obj/",
+      "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayb/.nuget/NuGet/NuGet.Config"

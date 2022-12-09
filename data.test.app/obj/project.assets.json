@@ -840,7 +840,7 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "bbt.framework.data/6.2022.1210.204": {
+      "bbt.framework.data/6.2022.1210.240": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -2130,7 +2130,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "bbt.framework.data/6.2022.1210.204": {
+    "bbt.framework.data/6.2022.1210.240": {
       "type": "project",
       "path": "../bbt.framework.data/bbt.framework.data.csproj",
       "msbuildProject": "../bbt.framework.data/bbt.framework.data.csproj"
@@ -2142,7 +2142,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 6.0.5",
       "Microsoft.Extensions.Hosting >= 6.0.1",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 6.0.4",
-      "bbt.framework.data >= 6.2022.1210.204"
+      "bbt.framework.data >= 6.2022.1210.240"
     ]
   },
   "packageFolders": {
@@ -2151,11 +2151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/data.test.app/data.test.app.csproj",
+      "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/data.test.app/data.test.app.csproj",
       "projectName": "data.test.app",
-      "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/data.test.app/data.test.app.csproj",
+      "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/data.test.app/data.test.app.csproj",
       "packagesPath": "/Users/bayb/.nuget/packages/",
-      "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/data.test.app/obj/",
+      "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/data.test.app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayb/.nuget/NuGet/NuGet.Config"
@@ -2171,8 +2171,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj": {
-              "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj"
+            "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj": {
+              "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj"
             }
           }
         }

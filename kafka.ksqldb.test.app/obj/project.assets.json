@@ -1537,11 +1537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.ksqldb.test.app/kafka.ksqldb.test.app.csproj",
+      "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.ksqldb.test.app/kafka.ksqldb.test.app.csproj",
       "projectName": "kafka.ksqldb.test.app",
-      "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.ksqldb.test.app/kafka.ksqldb.test.app.csproj",
+      "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.ksqldb.test.app/kafka.ksqldb.test.app.csproj",
       "packagesPath": "/Users/bayb/.nuget/packages/",
-      "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.ksqldb.test.app/obj/",
+      "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.ksqldb.test.app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayb/.nuget/NuGet/NuGet.Config"

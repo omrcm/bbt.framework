@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dLma403qXL9/2q830gD4bjLLzMjTnl0yYQjYp9kyHeYPYIafOEHtYSF8lDtoJqqP6ZwLv2mV+6fx14nVt3brJA==",
+  "dgSpecHash": "xkurkrW6eEE6h3ZuBrI4PGitUzdkLGR9PgoCUdlwwMSfi+rhOO3TZQDY1bQ9Ss63k0r1uSQMrbGagCbNahNvFA==",
   "success": true,
-  "projectFilePath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.outbox/bbt.framework.outbox.csproj",
+  "projectFilePath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.outbox/bbt.framework.outbox.csproj",
   "expectedPackageFiles": [
     "/Users/bayb/.nuget/packages/consul/1.6.10.6/consul.1.6.10.6.nupkg.sha512",
     "/Users/bayb/.nuget/packages/dnsclient/1.6.0/dnsclient.1.6.0.nupkg.sha512",

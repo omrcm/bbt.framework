@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj": {}
+    "/Users/bayb/Desktop/work/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj": {}
   },
   "projects": {
-    "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj": {
-      "version": "6.2022.1210.204",
+    "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj": {
+      "version": "6.2022.1210.240",
       "restore": {
-        "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj",
+        "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj",
         "projectName": "bbt.framework.common",
-        "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj",
+        "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj",
         "packagesPath": "/Users/bayb/.nuget/packages/",
-        "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/obj/",
+        "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bayb/.nuget/NuGet/NuGet.Config"
@@ -108,14 +108,14 @@
         }
       }
     },
-    "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj": {
+    "/Users/bayb/Desktop/work/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
+        "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
         "projectName": "bbt.worker.template",
-        "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
+        "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
         "packagesPath": "/Users/bayb/.nuget/packages/",
-        "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.worker.template/obj/",
+        "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.worker.template/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bayb/.nuget/NuGet/NuGet.Config"
@@ -131,8 +131,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj": {
-                "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj"
+              "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj": {
+                "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj"
               }
             }
           }

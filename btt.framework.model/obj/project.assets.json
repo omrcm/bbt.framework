@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.model/bbt.framework.model.csproj",
+      "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.model/bbt.framework.model.csproj",
       "projectName": "bbt.framework.model",
-      "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.model/bbt.framework.model.csproj",
+      "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.model/bbt.framework.model.csproj",
       "packagesPath": "/Users/bayb/.nuget/packages/",
-      "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.model/obj/",
+      "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayb/.nuget/NuGet/NuGet.Config"

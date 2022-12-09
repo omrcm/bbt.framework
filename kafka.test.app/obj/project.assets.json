@@ -612,7 +612,7 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "bbt.framework.kafka/6.2022.1210.204": {
+      "bbt.framework.kafka/6.2022.1210.240": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -1490,7 +1490,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "bbt.framework.kafka/6.2022.1210.204": {
+    "bbt.framework.kafka/6.2022.1210.240": {
       "type": "project",
       "path": "../btt.framework.kafka/bbt.framework.kafka.csproj",
       "msbuildProject": "../btt.framework.kafka/bbt.framework.kafka.csproj"
@@ -1506,7 +1506,7 @@
       "Microsoft.Extensions.Hosting.Abstractions >= 6.0.0",
       "Microsoft.Extensions.Logging.Console >= 6.0.0",
       "Microsoft.Extensions.Options >= 6.0.0",
-      "bbt.framework.kafka >= 6.2022.1210.204"
+      "bbt.framework.kafka >= 6.2022.1210.240"
     ]
   },
   "packageFolders": {
@@ -1515,11 +1515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.test.app/kafka.test.app.csproj",
+      "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.test.app/kafka.test.app.csproj",
       "projectName": "kafka.test.app",
-      "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.test.app/kafka.test.app.csproj",
+      "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.test.app/kafka.test.app.csproj",
       "packagesPath": "/Users/bayb/.nuget/packages/",
-      "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.test.app/obj/",
+      "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.test.app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayb/.nuget/NuGet/NuGet.Config"
@@ -1535,8 +1535,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj": {
-              "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj"
+            "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj": {
+              "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj"
             }
           }
         }

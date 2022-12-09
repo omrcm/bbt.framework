@@ -2309,7 +2309,7 @@
           "lib/netstandard2.0/Winton.Extensions.Configuration.Consul.dll": {}
         }
       },
-      "bbt.framework.common/6.2022.1210.204": {
+      "bbt.framework.common/6.2022.1210.240": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -2333,13 +2333,13 @@
           "bin/placeholder/bbt.framework.common.dll": {}
         }
       },
-      "bbt.framework.redis/6.2022.1210.204": {
+      "bbt.framework.redis/6.2022.1210.240": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.Extensions.Configuration.UserSecrets": "6.0.1",
           "StackExchange.Redis": "2.5.61",
-          "bbt.framework.common": "6.2022.1210.204"
+          "bbt.framework.common": "6.2022.1210.240"
         },
         "compile": {
           "bin/placeholder/bbt.framework.redis.dll": {}
@@ -7634,12 +7634,12 @@
         "winton.extensions.configuration.consul.nuspec"
       ]
     },
-    "bbt.framework.common/6.2022.1210.204": {
+    "bbt.framework.common/6.2022.1210.240": {
       "type": "project",
       "path": "../bbt.framework.common/bbt.framework.common.csproj",
       "msbuildProject": "../bbt.framework.common/bbt.framework.common.csproj"
     },
-    "bbt.framework.redis/6.2022.1210.204": {
+    "bbt.framework.redis/6.2022.1210.240": {
       "type": "project",
       "path": "../bbt.framework.redis/bbt.framework.redis.csproj",
       "msbuildProject": "../bbt.framework.redis/bbt.framework.redis.csproj"
@@ -7654,8 +7654,8 @@
       "Microsoft.Extensions.Hosting >= 6.0.1",
       "Microsoft.Extensions.Hosting.Abstractions >= 6.0.0",
       "StackExchange.Redis >= 2.5.61",
-      "bbt.framework.common >= 6.2022.1210.204",
-      "bbt.framework.redis >= 6.2022.1210.204"
+      "bbt.framework.common >= 6.2022.1210.240",
+      "bbt.framework.redis >= 6.2022.1210.240"
     ]
   },
   "packageFolders": {
@@ -7664,11 +7664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/redis.test.app/redis.test.app.csproj",
+      "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/redis.test.app/redis.test.app.csproj",
       "projectName": "redis.test.app",
-      "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/redis.test.app/redis.test.app.csproj",
+      "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/redis.test.app/redis.test.app.csproj",
       "packagesPath": "/Users/bayb/.nuget/packages/",
-      "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/redis.test.app/obj/",
+      "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/redis.test.app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayb/.nuget/NuGet/NuGet.Config"
@@ -7684,11 +7684,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj": {
-              "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj"
+            "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj": {
+              "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj"
             },
-            "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.redis/bbt.framework.redis.csproj": {
-              "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.redis/bbt.framework.redis.csproj"
+            "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.redis/bbt.framework.redis.csproj": {
+              "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.redis/bbt.framework.redis.csproj"
             }
           }
         }

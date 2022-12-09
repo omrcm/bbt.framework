@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F6gbquzDbyqZO5gaIwPxomTuZoB+FcZ7lQlmse9ky+AX9a4xkSzrYB0qaIU2jWP7dvgbyxlCN6NZ5uBzVlHgfw==",
+  "dgSpecHash": "9A9vMrlLK2ix+ewBqHhZLoKhPMh6yosvw5c+KTe7yjxucTOSW6EIk8RI8hSxgMKYm5IvEOXP4VRSBbfTkYVcxA==",
   "success": true,
-  "projectFilePath": "/Users/bayb/Desktop/burgan/code/bbt.framework/data.test.app/data.test.app.csproj",
+  "projectFilePath": "/Users/bayb/Desktop/work/code/bbt.framework/data.test.app/data.test.app.csproj",
   "expectedPackageFiles": [
     "/Users/bayb/.nuget/packages/dnsclient/1.6.0/dnsclient.1.6.0.nupkg.sha512",
     "/Users/bayb/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",

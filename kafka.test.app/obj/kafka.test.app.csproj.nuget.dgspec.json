@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.test.app/kafka.test.app.csproj": {}
+    "/Users/bayb/Desktop/work/code/bbt.framework/kafka.test.app/kafka.test.app.csproj": {}
   },
   "projects": {
-    "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj": {
-      "version": "6.2022.1210.204",
+    "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj": {
+      "version": "6.2022.1210.240",
       "restore": {
-        "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj",
+        "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj",
         "projectName": "bbt.framework.kafka",
-        "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj",
+        "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj",
         "packagesPath": "/Users/bayb/.nuget/packages/",
-        "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/",
+        "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.kafka/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bayb/.nuget/NuGet/NuGet.Config"
@@ -72,14 +72,14 @@
         }
       }
     },
-    "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.test.app/kafka.test.app.csproj": {
+    "/Users/bayb/Desktop/work/code/bbt.framework/kafka.test.app/kafka.test.app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.test.app/kafka.test.app.csproj",
+        "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.test.app/kafka.test.app.csproj",
         "projectName": "kafka.test.app",
-        "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.test.app/kafka.test.app.csproj",
+        "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.test.app/kafka.test.app.csproj",
         "packagesPath": "/Users/bayb/.nuget/packages/",
-        "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/kafka.test.app/obj/",
+        "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/kafka.test.app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bayb/.nuget/NuGet/NuGet.Config"
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj": {
-                "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj"
+              "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj": {
+                "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj"
               }
             }
           }

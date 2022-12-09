@@ -1099,13 +1099,13 @@
     "/Users/bayb/.nuget/packages/": {}
   },
   "project": {
-    "version": "6.2022.1210.204",
+    "version": "6.2022.1210.240",
     "restore": {
-      "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj",
+      "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj",
       "projectName": "bbt.framework.data",
-      "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj",
+      "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj",
       "packagesPath": "/Users/bayb/.nuget/packages/",
-      "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.data/obj/",
+      "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayb/.nuget/NuGet/NuGet.Config"

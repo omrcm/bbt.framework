@@ -2598,7 +2598,7 @@
           "lib/netstandard2.0/Winton.Extensions.Configuration.Consul.dll": {}
         }
       },
-      "bbt.framework.common/6.2022.1210.204": {
+      "bbt.framework.common/6.2022.1210.240": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -2622,7 +2622,7 @@
           "bin/placeholder/bbt.framework.common.dll": {}
         }
       },
-      "bbt.framework.data/6.2022.1210.204": {
+      "bbt.framework.data/6.2022.1210.240": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -2636,13 +2636,13 @@
           "bin/placeholder/bbt.framework.data.dll": {}
         }
       },
-      "bbt.framework.outbox/6.2022.1210.204": {
+      "bbt.framework.outbox/6.2022.1210.240": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.5",
-          "bbt.framework.data": "6.2022.1210.204",
-          "bbt.framework.redis": "6.2022.1210.204"
+          "bbt.framework.data": "6.2022.1210.240",
+          "bbt.framework.redis": "6.2022.1210.240"
         },
         "compile": {
           "bin/placeholder/bbt.framework.outbox.dll": {}
@@ -2651,13 +2651,13 @@
           "bin/placeholder/bbt.framework.outbox.dll": {}
         }
       },
-      "bbt.framework.redis/6.2022.1210.204": {
+      "bbt.framework.redis/6.2022.1210.240": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.Extensions.Configuration.UserSecrets": "6.0.1",
           "StackExchange.Redis": "2.5.61",
-          "bbt.framework.common": "6.2022.1210.204"
+          "bbt.framework.common": "6.2022.1210.240"
         },
         "compile": {
           "bin/placeholder/bbt.framework.redis.dll": {}
@@ -8320,22 +8320,22 @@
         "winton.extensions.configuration.consul.nuspec"
       ]
     },
-    "bbt.framework.common/6.2022.1210.204": {
+    "bbt.framework.common/6.2022.1210.240": {
       "type": "project",
       "path": "../bbt.framework.common/bbt.framework.common.csproj",
       "msbuildProject": "../bbt.framework.common/bbt.framework.common.csproj"
     },
-    "bbt.framework.data/6.2022.1210.204": {
+    "bbt.framework.data/6.2022.1210.240": {
       "type": "project",
       "path": "../bbt.framework.data/bbt.framework.data.csproj",
       "msbuildProject": "../bbt.framework.data/bbt.framework.data.csproj"
     },
-    "bbt.framework.outbox/6.2022.1210.204": {
+    "bbt.framework.outbox/6.2022.1210.240": {
       "type": "project",
       "path": "../bbt.framework.outbox/bbt.framework.outbox.csproj",
       "msbuildProject": "../bbt.framework.outbox/bbt.framework.outbox.csproj"
     },
-    "bbt.framework.redis/6.2022.1210.204": {
+    "bbt.framework.redis/6.2022.1210.240": {
       "type": "project",
       "path": "../bbt.framework.redis/bbt.framework.redis.csproj",
       "msbuildProject": "../bbt.framework.redis/bbt.framework.redis.csproj"
@@ -8348,9 +8348,9 @@
       "Microsoft.EntityFrameworkCore.Design >= 6.0.5",
       "Microsoft.Extensions.Hosting >= 6.0.1",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 6.0.4",
-      "bbt.framework.data >= 6.2022.1210.204",
-      "bbt.framework.outbox >= 6.2022.1210.204",
-      "bbt.framework.redis >= 6.2022.1210.204"
+      "bbt.framework.data >= 6.2022.1210.240",
+      "bbt.framework.outbox >= 6.2022.1210.240",
+      "bbt.framework.redis >= 6.2022.1210.240"
     ]
   },
   "packageFolders": {
@@ -8359,11 +8359,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/outbox.test.app/outbox.test.app.csproj",
+      "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/outbox.test.app/outbox.test.app.csproj",
       "projectName": "outbox.test.app",
-      "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/outbox.test.app/outbox.test.app.csproj",
+      "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/outbox.test.app/outbox.test.app.csproj",
       "packagesPath": "/Users/bayb/.nuget/packages/",
-      "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/outbox.test.app/obj/",
+      "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/outbox.test.app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayb/.nuget/NuGet/NuGet.Config"
@@ -8379,14 +8379,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj": {
-              "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj"
+            "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj": {
+              "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.data/bbt.framework.data.csproj"
             },
-            "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.outbox/bbt.framework.outbox.csproj": {
-              "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.outbox/bbt.framework.outbox.csproj"
+            "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.outbox/bbt.framework.outbox.csproj": {
+              "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.outbox/bbt.framework.outbox.csproj"
             },
-            "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.redis/bbt.framework.redis.csproj": {
-              "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.redis/bbt.framework.redis.csproj"
+            "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.redis/bbt.framework.redis.csproj": {
+              "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.redis/bbt.framework.redis.csproj"
             }
           }
         }

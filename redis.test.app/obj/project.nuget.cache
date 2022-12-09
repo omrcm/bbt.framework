@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6BP6SCqcGFz94qMCTwFQfcWcZ4G+TdVApC6l49QY8A9u60sJmiVrwkQbr7p3FepuHkdw1NjPXQRlllDczAPMJw==",
+  "dgSpecHash": "ZUVo6DveZ3sTU1LdjqsTdugvYZPhFJllQIzUPLlSC6gj/Nh4paOAT22Q+Npno6tepEyyYHZg8r2TRaCFf9Z3xQ==",
   "success": true,
-  "projectFilePath": "/Users/bayb/Desktop/burgan/code/bbt.framework/redis.test.app/redis.test.app.csproj",
+  "projectFilePath": "/Users/bayb/Desktop/work/code/bbt.framework/redis.test.app/redis.test.app.csproj",
   "expectedPackageFiles": [
     "/Users/bayb/.nuget/packages/consul/1.6.10.6/consul.1.6.10.6.nupkg.sha512",
     "/Users/bayb/.nuget/packages/elasticsearch.net/7.8.1/elasticsearch.net.7.8.1.nupkg.sha512",

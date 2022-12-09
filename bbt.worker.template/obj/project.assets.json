@@ -2770,7 +2770,7 @@
           "lib/netstandard2.0/Winton.Extensions.Configuration.Consul.dll": {}
         }
       },
-      "bbt.framework.common/6.2022.1210.204": {
+      "bbt.framework.common/6.2022.1210.240": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -8858,7 +8858,7 @@
         "winton.extensions.configuration.consul.nuspec"
       ]
     },
-    "bbt.framework.common/6.2022.1210.204": {
+    "bbt.framework.common/6.2022.1210.240": {
       "type": "project",
       "path": "../bbt.framework.common/bbt.framework.common.csproj",
       "msbuildProject": "../bbt.framework.common/bbt.framework.common.csproj"
@@ -8869,7 +8869,7 @@
       "Elastic.Apm.NetCoreAll >= 1.16.0",
       "Microsoft.Extensions.Hosting >= 6.0.1",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.15.1",
-      "bbt.framework.common >= 6.2022.1210.204"
+      "bbt.framework.common >= 6.2022.1210.240"
     ]
   },
   "packageFolders": {
@@ -8878,11 +8878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
+      "projectUniqueName": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
       "projectName": "bbt.worker.template",
-      "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
+      "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.worker.template/bbt.worker.template.csproj",
       "packagesPath": "/Users/bayb/.nuget/packages/",
-      "outputPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.worker.template/obj/",
+      "outputPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.worker.template/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayb/.nuget/NuGet/NuGet.Config"
@@ -8898,8 +8898,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj": {
-              "projectPath": "/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj"
+            "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj": {
+              "projectPath": "/Users/bayb/Desktop/work/code/bbt.framework/bbt.framework.common/bbt.framework.common.csproj"
             }
           }
         }
