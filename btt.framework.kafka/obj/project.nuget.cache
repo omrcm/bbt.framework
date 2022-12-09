@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/3PFDmYO9qfMG5MDldTzCCdmcHH7LACW8jQZckwATRNXM/UuNsUDjn59uBZtzx8F/KQeOP3JZtNH/KMxE9VDA==",
+  "success": true,
+  "projectFilePath": "/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bbt.framework.kafka.csproj",
+  "expectedPackageFiles": [
+    "/Users/bayb/.nuget/packages/confluent.kafka/1.8.2/confluent.kafka.1.8.2.nupkg.sha512",
+    "/Users/bayb/.nuget/packages/librdkafka.redist/1.8.2/librdkafka.redist.1.8.2.nupkg.sha512",
+    "/Users/bayb/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/bayb/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/bayb/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

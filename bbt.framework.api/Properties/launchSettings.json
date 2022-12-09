@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "bbt.framework.api": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

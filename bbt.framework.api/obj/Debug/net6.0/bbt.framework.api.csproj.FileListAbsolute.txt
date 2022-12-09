@@ -1,0 +1,12 @@
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/bin/Debug/net6.0/bbt.framework.api.deps.json
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/bin/Debug/net6.0/bbt.framework.api.dll
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/bin/Debug/net6.0/bbt.framework.api.pdb
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/obj/Debug/net6.0/bbt.framework.api.csproj.AssemblyReference.cache
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/obj/Debug/net6.0/bbt.framework.api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/obj/Debug/net6.0/bbt.framework.api.AssemblyInfoInputs.cache
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/obj/Debug/net6.0/bbt.framework.api.AssemblyInfo.cs
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/obj/Debug/net6.0/bbt.framework.api.csproj.CoreCompileInputs.cache
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/obj/Debug/net6.0/bbt.framework.api.dll
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/obj/Debug/net6.0/refint/bbt.framework.api.dll
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/obj/Debug/net6.0/bbt.framework.api.pdb
+/Users/bayb/Desktop/burgan/code/bbt.framework/bbt.framework.api/obj/Debug/net6.0/ref/bbt.framework.api.dll

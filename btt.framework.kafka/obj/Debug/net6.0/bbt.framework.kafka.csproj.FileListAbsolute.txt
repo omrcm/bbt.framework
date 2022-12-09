@@ -1,0 +1,12 @@
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bin/Debug/net6.0/bbt.framework.kafka.deps.json
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bin/Debug/net6.0/bbt.framework.kafka.dll
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/bin/Debug/net6.0/bbt.framework.kafka.pdb
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/Debug/net6.0/bbt.framework.kafka.csproj.AssemblyReference.cache
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/Debug/net6.0/bbt.framework.kafka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/Debug/net6.0/bbt.framework.kafka.AssemblyInfoInputs.cache
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/Debug/net6.0/bbt.framework.kafka.AssemblyInfo.cs
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/Debug/net6.0/bbt.framework.kafka.csproj.CoreCompileInputs.cache
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/Debug/net6.0/bbt.framework.kafka.dll
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/Debug/net6.0/refint/bbt.framework.kafka.dll
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/Debug/net6.0/bbt.framework.kafka.pdb
+/Users/bayb/Desktop/burgan/code/bbt.framework/btt.framework.kafka/obj/Debug/net6.0/ref/bbt.framework.kafka.dll

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>dotnet-kafka.ksqldb.test.app-6FD1F11D-B7F3-40EB-BE13-7350D98BF485</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="ksqlDb.RestApi.Client" Version="2.0.1" />
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+		<PackageReference Include="Polly" Version="7.2.3" />
+		<PackageReference Include="RestEase" Version="1.5.7" />
+	</ItemGroup>
+</Project>
